@@ -7,7 +7,7 @@ import jakarta.servlet.ServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-public class DemoServlet extends GenericServlet {
+public class GenericDemoServlet extends GenericServlet {
 	private static final long serialVersionUID = 1L;
        
     public DemoServlet() {
